@@ -1,6 +1,7 @@
 # Project Name
 
-[![OpenCv with Python]("C:\Users\91935\Downloads\opencv.jpeg")](link/to/your/project)
+![opencv](https://github.com/MayurjareMJ/OpenCV-using-Python/assets/155072464/51f20e3d-f44e-41fe-8ec4-f573599be947)
+
 
 ## Introduction
 OpenCV (Open Source Computer Vision Library) is an open-source computer vision and machine learning software library. It provides various tools and functions for image processing, computer vision, and machine learning. OpenCV is written in C++ and has interfaces for Python, Java, and more. Here's a brief introduction to OpenCV codes along with some notes:
@@ -8,79 +9,79 @@ OpenCV (Open Source Computer Vision Library) is an open-source computer vision a
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [-Topic1:](#topics)
+- [-Topic:](#topics)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
-## -Topic1:
+## -Topic:
 
 List the main topics or sections covered in your project. For example:
 
--Topic1: - Overview
+-Topic 1: - Overview
 
--Topic2: - Environment
+-Topic 2: - Environment
 
--Topic3: - Reading Image
+-Topic 3: - Reading Image
 
--Topic1: - Write Image
+-Topic 4: - Write Image
 
--Topic1: - Using Matplotlib
+-Topic 5: - Using Matplotlib
 
--Topic1: - Image Properties
+-Topic 6: - Image Properties
 
--Topic1: - Bitwise Operations
+-Topic 7: - Bitwise Operations
 
--Topic1: - Shapes and Text
+-Topic 8: - Shapes and Text
 
--Topic1: - Mouse Events
+-Topic 9: - Mouse Events
 
--Topic1: - Add Trackbar
+-Topic 10: - Add Trackbar
 
--Topic1: - Resize and Rotate
+-Topic11: - Resize and Rotate
 
--Topic1: - Image Threshold
+-Topic 12: - Image Threshold
 
--Topic1: - Image Filtering
+-Topic13: - Image Filtering
 
--Topic1: - Edge Detection
+-Topic14: - Edge Detection
 
--Topic1: - Histogram
+-Topic15: - Histogram
 
--Topic1: - Color Spaces
+-Topic16: - Color Spaces
 
--Topic1: - Transformations
+-Topic17: - Transformations
 
--Topic1: - Image Contours
+-Topic18: - Image Contours
 
--Topic1: - Template Matching
+-Topic19: - Template Matching
 
--Topic1: - Image Pyramids
+-Topic20: - Image Pyramids
 
--Topic1: - Image Addition
+-Topic21: - Image Addition
 
--Topic1: - Image Blending
+-Topic22: - Image Blending
 
--Topic1: - Fourier Transform
+-Topic23: - Fourier Transform
 
--Topic1: - Capture Videos
+-Topic24: - Capture Videos
 
--Topic1: - Play Videos
+-Topic25: - Play Videos
 
--Topic1: - Images From Video
+-Topic26: - Images From Video
 
--Topic1: - Video from Images
+-Topic27: - Video from Images
 
--Topic1: - Face Detection
+-Topic28: - Face Detection
 
--Topic1: - Meanshift/Camshift
+-Topic29: - Meanshift/Camshift
 
--Topic1: - Feature Detection
+-Topic30: - Feature Detection
 
--Topic1: - Feature Matching
+-Topic31: - Feature Matching
 
--Topic1: - Digit Recognition
+-Topic32: - Digit Recognition
 
 
 
