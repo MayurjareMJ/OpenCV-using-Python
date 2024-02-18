@@ -4,20 +4,13 @@
 
 
 ## Introduction
-OpenCV (Open Source Computer Vision Library) is an open-source computer vision and machine learning software library. It provides various tools and functions for image processing, computer vision, and machine learning. OpenCV is written in C++ and has interfaces for Python, Java, and more. Here's a brief introduction to OpenCV codes along with some notes:
+OpenCV (Open Source Computer Vision Library) is an open-source computer vision and machine learning software library. It provides various tools and functions for image processing, computer vision, and machine learning. OpenCV is written in C++ and has interfaces for Python, Java, and more.
 
-## Table of Contents
 
-- [Introduction](#introduction)
-- [-Topic:](#topics)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
-## -Topic:
+## Topic:
 
-List the main topics or sections covered in your project. For example:
+List the main topics or sections covered in your project:
 
 -Topic 1: - Overview
 
@@ -95,8 +88,3 @@ Provide step-by-step instructions on how to install your project. Include any de
 # Clone the repository
 [git clone https://github.com/your-username/your-project.git](https://github.com/MayurjareMJ/OpenCV-using-Python.git)
 
-# Navigate to the project directory
-cd your-project
-
-# Install dependencies
-npm install
