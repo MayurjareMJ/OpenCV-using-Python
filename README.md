@@ -92,7 +92,7 @@ Provide step-by-step instructions on how to install your project. Include any de
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-project.git
+[git clone https://github.com/your-username/your-project.git](https://github.com/MayurjareMJ/OpenCV-using-Python.git)
 
 # Navigate to the project directory
 cd your-project
