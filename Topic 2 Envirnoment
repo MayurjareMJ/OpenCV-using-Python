@@ -1,0 +1,15 @@
+import cv2
+img=cv2.imread("C:\\Users\\91935\\Downloads\\profile-pic (1) (1).png",-1)
+
+
+cv2.imshow("photo" ,img)
+
+k=cv2.waitKey(0) & 0xFF
+
+if k==27:
+    cv2.destroyWindow()
+    
+elif k==ord("s"):
+
+    cv.imwrite("Mayur.png",img)
+    cv2.destroyWindow()
