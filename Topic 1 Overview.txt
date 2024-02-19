@@ -1,0 +1,27 @@
+OpenCV stands for Open Source Computer Vision and is a library of functions which is useful in real time computer vision application programming. The term Computer vision is used for a subject of performing the analysis of digital images and videos using a computer program. Computer vision is an important constituent of modern disciplines such as artificial intelligence and machine learning.
+
+Originally developed by Intel, OpenCV is a cross platform library written in C++ but also has a C Interface Wrappers for OpenCV which have been developed for many other programming languages such as Java and Python. In this tutorial, functionality of OpenCV’s Python library will be described.
+
+OpenCV-Python
+OpenCV-Python is a Python wrapper around C++ implementation of OpenCV library. It makes use of NumPy library for numerical operations and is a rapid prototyping tool for computer vision problems.
+
+OpenCV-Python is a cross-platform library, available for use on all Operating System (OS) platforms including, Windows, Linux, MacOS and Android. OpenCV also supports the Graphics Processing Unit (GPU) acceleration.
+
+This tutorial is designed for the computer science students and professionals who wish to gain expertise in the field of computer vision applications. Prior knowledge of Python and NumPy library is essential to understand the functionality of OpenCV-Python.
+
+Applications of OpenCV: There are lots of applications which are solved using OpenCV, some of them are listed below 
+ 
+
+face recognition
+Automated inspection and surveillance
+number of people – count (foot traffic in a mall, etc)
+Vehicle counting on highways along with their speeds
+Interactive art installations
+Anomaly (defect) detection in the manufacturing process (the odd defective products)
+Street view image stitching
+Video/image search and retrieval
+Robot and driver-less car navigation and control
+object recognition
+Medical image analysis
+Movies – 3D structure from motion
+TV Channels advertisement recognition
