@@ -1,0 +1,33 @@
+Topic 3: Reading Images.
+
+OpenCV allows us to perform multiple operations on the image, but to do that it is necessary to read an image file as input, and then we can perform the various operations on it. OpenCV provides following functions which are used to read and write the images.
+
+
+OpenCV imread function
+The imread() function loads image from the specified file and returns it. The syntax is:
+
+>>>>> cv2.imread(filename[,flag])  
+
+
+Parameters:
+filename: Name of the file to be loaded
+flag: The flag specifies the color type of a loaded image:
+
+
+
+>>>CV_LOAD_IMAGE_ANYDEPTH - If we set it as flag, it will return 16-bits/32-bits image when the input has the corresponding depth, otherwise convert it to 8-BIT.
+>>>CV_LOAD_IMAGE_COLOR - If we set it as flag, it always return the converted image to the color one.
+>>>C V_LOAD_IMAGE_GRAYSCALE - If we set it as flag, it always convert image into the grayscale.
+
+
+The imread() function returns a matrix, if the image cannot be read because of unsupported file format, missing file, unsupported or invalid format. Currently, the following file formats are supported.
+
+Window bitmaps - *.bmp, *.dib
+JPEG files - *.jpeg, *.jpg, *.jpe
+Portable Network Graphics - *.png
+Portable image format- *.pbm, *.pgm, *.ppm
+TIFF files - *.tiff, *.tif
+
+
+
+Let's see an example on following:
