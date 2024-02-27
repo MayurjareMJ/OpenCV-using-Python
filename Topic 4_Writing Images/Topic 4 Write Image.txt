@@ -1,0 +1,25 @@
+Topic 4 Write Image
+
+CV2 package has imwrite() function that saves an image object to a specified file.
+
+The command to save an image with the help of imwrite() function is as follows −
+
+>>>cv2.imwrite(filename, img)
+
+
+The image format is automatically decided by OpenCV from the file extension. OpenCV supports *.bmp, *.dib , *.jpeg, *.jpg, *.png,*.webp, *.sr,*.tiff, \*.tif etc. image file types.
+
+
+
+Example
+Following program loads OpenCV logo image and saves its greyscale version when ‘s’ key is pressed −
+
+import numpy as np
+import cv2
+# Load an color image in grayscale
+img = cv2.imread('OpenCV_Logo.png',0)
+cv2.imshow('image',img)
+key=cv2.waitKey(0)
+if key==ord('s'):
+   cv2.imwrite("opencv_logo_GS.png", img)
+cv2.destroyAllWindows()
